@@ -12,6 +12,7 @@
 
 ## 배포 링크
 - https://wiz-front-fe.vercel.app/
+- API 지원 중단으로 인해 배포중단 상태
 
 <br/>
 
